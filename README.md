@@ -1,24 +1,24 @@
 Cupcake app
 =================================
 
-This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
-The order details get displayed on an order summary screen and can be shared to another app to
-send the order.
+Aplikasi ini berisi alur pemesanan cupcakes dengan opsi kuantitas, rasa, dan tanggal pengambilan.
+Detail pesanan ditampilkan pada layar ringkasan pesanan dan dapat dibagikan ke aplikasi lain
+kirim pesanannya.
 
-TODO
+MELAKUKAN
 
 
-Pre-requisites
+Prasyarat
 --------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
-* TODO
+* Pengalaman dengan sintaks Kotlin.
+* Cara membuat dan menjalankan proyek di Android Studio.
+* Cara membuat fungsi yang dapat dikomposisi
+* MELAKUKAN
 
 
-Getting Started
+Mulai
 ---------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+1. Instal Android Studio, jika Anda belum memilikinya.
+2. Unduh sampelnya.
+3. Impor sampel ke Android Studio.
+4. Bangun dan jalankan sampel.
